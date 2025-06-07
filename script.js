@@ -1,5 +1,5 @@
+const students = [
 
-[
   {
     "roll": "23F91A05F1",
     "name": "SAJJALA THOMAS SPARJAN",
@@ -208,8 +208,9 @@
       {"name": "Operating Systems Lab", "internal": 24, "grade": "A", "credits": 1.5},
       {"name": "Database Management Systems Lab", "internal": 25, "grade": "A", "credits": 1.5},
       {"name": "Full Stack Development – I", "internal": 22, "grade": "B+", "credits": 3}
-    ]
-  },
+       }
+    ];
+  
 
 
 function loadResults(data) {
